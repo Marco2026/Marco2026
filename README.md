@@ -24,9 +24,9 @@ Soy estudiante de ingeniería informática, interesado en el desarrollo de softw
 
 ## 📌 Proyectos destacados
 
-- 🔹 [Nombre proyecto 1](link) — breve descripción
-- 🔹 [Nombre proyecto 2](link) — breve descripción
-- 🔹 [Nombre proyecto 3](link) — breve descripción
+- [Estudio evaluación sistemas RAG](https://github.com/Marco2026/rag-systems-evaluation) - Proyecto de fin de carrera construyendo sistemas RAG y evaluando su calidad en varios benchmarks.
+- [Agente de IA (Bothello)](https://github.com/Marco2026/Bothello-ai-agent) - Agente de Inteligencia Artificial para jugar al juedo de mesa "Othello".
+- [Juego de mesa End Of Line](https://github.com/Marco2026/end-of-line-boardgame) - Versión web del juego de mesa "End Of Line" realizada en Springboot y React.
 
 ---
 
