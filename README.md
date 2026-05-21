@@ -28,6 +28,8 @@ Soy estudiante de ingeniería informática, interesado en el desarrollo de softw
 - [Agente de IA (Bothello)](https://github.com/Marco2026/Bothello-ai-agent) - Agente de Inteligencia Artificial para jugar al juedo de mesa "Othello".
 - [Juego de mesa End Of Line](https://github.com/Marco2026/end-of-line-boardgame) - Versión web del juego de mesa "End Of Line" realizada en Springboot y React.
 
+[Aquí puedes encontrar mi portfolio](https://marco2026-portfolio.vercel.app/)
+
 ---
 
 ## 📫 Contacto
