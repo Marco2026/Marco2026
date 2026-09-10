@@ -1,13 +1,13 @@
 # Hola, soy Marco Antonio 👋
 
-Soy estudiante de ingeniería informática, interesado en el desarrollo de software y la creación de proyectos prácticos.
+Soy Ingeniero Informático por la Universidad de Sevilla, interesado en el desarrollo de software y la Inteligencia Artificial.
 
 ---
 
 ## 🧠 Sobre mí
 
 - 💻 Me gusta programar y aprender nuevas tecnologías
-- 📚 Actualmente estoy ampliando conocimientos en desarrollo web / backend / software
+- 📚 Actualmente estoy cursando un Máster en Lógica, Ciencias de la Computación e Inteligencia Artificial
 - 🤝 He trabajado en proyectos colaborativos durante la carrera
 - 🚀 Siempre buscando mejorar y construir cosas útiles
 
@@ -15,10 +15,11 @@ Soy estudiante de ingeniería informática, interesado en el desarrollo de softw
 
 ## 🛠️ Tecnologías que uso
 
-- Lenguajes: Java, Python, JavaScript
+- Lenguajes: Python, Java, JavaScript
+- IA: RAG, PyTorch, Scikit-Learn, Keras
 - Web: HTML, CSS, React
-- Backend: Node.js / Spring / Django
-- Bases de datos: MySQL / PostgreSQL
+- Backend: Node.js / Spring / Django / FastAPI
+- Bases de datos: MySQL
 
 ---
 
