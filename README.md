@@ -8,17 +8,17 @@ Soy Ingeniero Informático por la Universidad de Sevilla, interesado en el desar
 
 - 💻 Me gusta programar y aprender nuevas tecnologías
 - 📚 Actualmente estoy cursando un Máster en Lógica, Ciencias de la Computación e Inteligencia Artificial
-- 🤝 He trabajado en proyectos colaborativos durante la carrera
+- 🤝 He trabajado en proyectos colaborativos durante la carrera utilizando metodologías ágiles
 - 🚀 Siempre buscando mejorar y construir cosas útiles
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
-- Lenguajes: Python, Java, JavaScript
+- Lenguajes: Python, Java, JavaScript, TypeScript
 - IA: RAG, PyTorch, Scikit-Learn, Keras
 - Web: HTML, CSS, React
-- Backend: Node.js / Spring / Django / FastAPI
+- Backend: Node.js / Springboot / Django / FastAPI
 - Bases de datos: MySQL
 
 ---
