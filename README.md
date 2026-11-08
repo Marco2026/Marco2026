@@ -17,7 +17,7 @@ Soy **Ingeniero Informático** por la Universidad de Sevilla. Actualmente estoy 
 - Lenguajes: Python, Java, JavaScript, TypeScript, SQL
 - IA: RAG, PyTorch, Scikit-Learn, Keras, Tensorflow
 - Web: HTML, CSS, React
-- Backend: Node.js / Springboot / Django / FastAPI
+- Backend: Node.js, Springboot, Django, FastAPI
 - Bases de datos: MariaDB
 
 ---
